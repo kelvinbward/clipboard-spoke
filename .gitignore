@@ -1,0 +1,12 @@
+# clipboard-spoke
+node_modules
+dist
+.env
+.env.local
+.env.*.local
+*.log
+npm-debug.log*
+.DS_Store
+coverage
+playwright-report
+test-results
